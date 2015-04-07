@@ -9,3 +9,4 @@
 .gitignore
 /pySAHM/Resources/R_Modules/Experimental/*
 /pySAHM/Resources/R_Modules/OldCopies/*
+/tmp/*
